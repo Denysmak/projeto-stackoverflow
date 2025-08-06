@@ -1,0 +1,5 @@
+# Ignora arquivos sensíveis
+*.json
+gbq3.json
+.env
+venv/
